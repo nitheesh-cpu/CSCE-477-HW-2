@@ -1,0 +1,13 @@
+{
+  "name": "juice-shop-secure-login",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A dependency-free secure login form demonstration for CSCE 477 HW2-B.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
